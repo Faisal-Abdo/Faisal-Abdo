@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Al Busaidi</h1>
 <h3 align="center">A CS fresh graduate with interest in various areas of software development</h3>
 
-- 🌱 I’m currently learning **Java, Springboot, Javascript.**
+- 🌱 I’m currently learning **Java, Springboot, Javascript, SQL.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Faisal-Abdo](https://github.com/Faisal-Abdo)
 
